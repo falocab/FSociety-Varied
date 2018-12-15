@@ -86,13 +86,14 @@ Un marco de prueba de penetración, tendrá todos los scripts que un hacker nece
 - Weeman
 
 # INSTALACION
-
+<p>
 root@XXX:~# git clone https://github.com/falocab/FSociety-Varied
 root@XXX:~# cd fsociety/
 root@XXX:~# ./install.sh
 root@XXX:~# chmod 777 fsociety.py
 root@XXX:~# ./fsociety.py
 AND HAPPY HACKING!!!
+<p/>
 
 [Fsociety.host](https://fsociety.host/)
 
